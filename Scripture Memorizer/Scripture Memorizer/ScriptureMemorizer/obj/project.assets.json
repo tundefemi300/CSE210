@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\Scripture Memorizer\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
       "projectName": "ScriptureMemorizer",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\Scripture Memorizer\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\ScriptureMemorizer\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\byu\\cse210\\Scripture Memorizer\\Scripture Memorizer\\ScriptureMemorizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
