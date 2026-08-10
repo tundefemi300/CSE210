@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\bin\Debug\net10.0\EternalQuest.exe
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\bin\Debug\net10.0\EternalQuest.deps.json
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\bin\Debug\net10.0\EternalQuest.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\bin\Debug\net10.0\EternalQuest.dll
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\bin\Debug\net10.0\EternalQuest.pdb
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.sourcelink.json
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.dll
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\refint\EternalQuest.dll
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.pdb
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\EternalQuest.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\byu\cse210\EternalQuest Program\obj\Debug\net10.0\ref\EternalQuest.dll
